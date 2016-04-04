@@ -9,4 +9,7 @@ addition, multiplication, square root functions as well as a few others.
 Please implement them in the functions.js file. Check your work by
 playing with the calculator.
 
+NOTE: Only edit the functions.js file!! Keep everything else as is.
+
+
 
